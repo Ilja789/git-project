@@ -3,3 +3,7 @@ function hello(arg) {
 }
 
 hello();
+
+function goodbye (arguments){
+//    body...
+}
