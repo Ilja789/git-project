@@ -7,3 +7,7 @@ hello();
 function goodbye (arguments){
 //    body...
 }
+
+function hoy(argument){
+    //Something for work
+}
