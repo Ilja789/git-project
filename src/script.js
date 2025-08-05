@@ -11,3 +11,7 @@ function goodbye (arguments){
 function hoy(argument){
     //Something for work
 }
+
+function new_func(arg){
+    //something..
+}
