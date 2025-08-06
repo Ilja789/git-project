@@ -14,4 +14,5 @@ function hoy(argument){
 
 function new_func(arg){
     //something..
+    //do somethimg
 }
